@@ -3,8 +3,8 @@ package trainings
 import (
 	"errors"
 	"fmt"
-	"personaldata"
-	"spentenergy"
+	"github.com/Yandex-Practicum/tracker/internal/personaldata"
+	"github.com/Yandex-Practicum/tracker/internal/spentenergy"
 	"strconv"
 	"strings"
 	"time"
